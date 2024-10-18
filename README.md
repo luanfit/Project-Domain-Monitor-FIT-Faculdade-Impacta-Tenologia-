@@ -25,7 +25,4 @@ CSV and JSON files are created locally.
 
 ![csv-json-created-gif](https://user-images.githubusercontent.com/53881959/166122109-a6d3c1f3-a21d-4e3a-bbb8-909a166b2c8c.gif)
 
-E-mail received on gmail:
-
-![email-received-gif](https://user-images.githubusercontent.com/53881959/166122111-0fb0a330-d6f4-4aac-9f16-16f1c50b0e3a.gif)
 
